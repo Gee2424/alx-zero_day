@@ -1,1 +1,2 @@
-cat > up_to_date  is the command used to create this file and put its contents
+git pull is the command used to be up to date
+
